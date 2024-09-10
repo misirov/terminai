@@ -62,7 +62,7 @@ After installation, you can use the `ai` command in your terminal.
 
 1. `python -c "print('my password is 12345')" | ai "what is my password?"`
 2. `cat contracts/src/Counter.sol | ai "how many functions does this solidity contract have? only name them"`
-3.`ai "$(ls -la)" Where is the terminai configuration file?`
+3. `ai "$(ls -la)" Where is the terminai configuration file?`
 4. `solc --help | ai "how to compile via IR? respond with command only"`
 5. `cat file.json | ai "convert file to XML format" > file.xml`
 
